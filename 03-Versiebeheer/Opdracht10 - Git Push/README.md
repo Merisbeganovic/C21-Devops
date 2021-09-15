@@ -1,6 +1,6 @@
 ## Git Push
 
-## Uitleg
+## Uitlegfvhgfhgh
 
 Tot nu toe heb je volgende dingen gedaan:
 1. Een lokale kopie gemaakt van de repository met daarin het lesmateriaal van deze module, zodat je daarin kan werken (Git-clone)
